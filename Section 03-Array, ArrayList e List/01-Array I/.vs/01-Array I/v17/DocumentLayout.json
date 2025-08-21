@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\01-Array I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B35192-2C30-4409-B050-5E2FEB5E91B3}|01-ArrayI\\01-ArrayI.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\section 03-array, arraylist e list\\01-array i\\01-arrayi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B35192-2C30-4409-B050-5E2FEB5E91B3}|01-ArrayI\\01-ArrayI.csproj|solutionrelative:01-arrayi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\01-Array I\\01-ArrayI\\Program.cs",
+              "RelativeDocumentMoniker": "01-ArrayI\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\01-Array I\\01-ArrayI\\Program.cs",
+              "RelativeToolTip": "01-ArrayI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:34:52.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 749,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
