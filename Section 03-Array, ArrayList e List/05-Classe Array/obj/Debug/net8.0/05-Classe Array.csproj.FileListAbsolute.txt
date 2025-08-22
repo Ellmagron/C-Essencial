@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\bin\Debug\net8.0\05-Classe Array.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\bin\Debug\net8.0\05-Classe Array.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\bin\Debug\net8.0\05-Classe Array.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\bin\Debug\net8.0\05-Classe Array.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\bin\Debug\net8.0\05-Classe Array.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\refint\05-Classe Array.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\05-Classe Array.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\05-Classe Array\obj\Debug\net8.0\ref\05-Classe Array.dll

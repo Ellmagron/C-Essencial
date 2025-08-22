@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}|05-Classe Array\\05-Classe Array.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\section 03-array, arraylist e list\\05-classe array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}|05-Classe Array\\05-Classe Array.csproj|solutionrelative:05-classe array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C30A5BC-95D4-4051-9CB3-75885F69A206}|03-Array III\\03-Array III.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\section 03-array, arraylist e list\\03-array iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C30A5BC-95D4-4051-9CB3-75885F69A206}|03-Array III\\03-Array III.csproj|solutionrelative:03-array iii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8704F6E3-3799-4B39-A2B7-91050F2A4114}|01-Array i\\01-Array i.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\section 03-array, arraylist e list\\01-array i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8704F6E3-3799-4B39-A2B7-91050F2A4114}|01-Array i\\01-Array i.csproj|solutionrelative:01-array i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEF7EDD-DCA4-4488-98CB-5914C562EBC9}|02-Array II\\02-Array II.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\section 03-array, arraylist e list\\02-array ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEF7EDD-DCA4-4488-98CB-5914C562EBC9}|02-Array II\\02-Array II.csproj|solutionrelative:02-array ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +39,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\05-Classe Array\\Program.cs",
+              "RelativeDocumentMoniker": "05-Classe Array\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\05-Classe Array\\Program.cs",
+              "RelativeToolTip": "05-Classe Array\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:44:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\03-Array III\\Program.cs",
+              "RelativeDocumentMoniker": "03-Array III\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\03-Array III\\Program.cs",
+              "RelativeToolTip": "03-Array III\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:33:45.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\02-Array II\\Program.cs",
+              "RelativeDocumentMoniker": "02-Array II\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\02-Array II\\Program.cs",
+              "RelativeToolTip": "02-Array II\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:14:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\01-Array i\\Program.cs",
+              "RelativeDocumentMoniker": "01-Array i\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\Section 03-Array, ArrayList e List\\01-Array i\\Program.cs",
+              "RelativeToolTip": "01-Array i\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:02:27.488Z",
+              "EditorCaption": ""
             }
           ]
         },

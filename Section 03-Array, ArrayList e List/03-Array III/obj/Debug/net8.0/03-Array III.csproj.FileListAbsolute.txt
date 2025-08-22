@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\bin\Debug\net8.0\03-Array III.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\bin\Debug\net8.0\03-Array III.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\bin\Debug\net8.0\03-Array III.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\bin\Debug\net8.0\03-Array III.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\bin\Debug\net8.0\03-Array III.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\refint\03-Array III.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\03-Array III.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\03-Array III\obj\Debug\net8.0\ref\03-Array III.dll
