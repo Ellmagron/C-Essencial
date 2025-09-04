@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section 03-Array, ArrayList e List", "Section 03-Array, ArrayList e List\Section 03-Array, ArrayList e List.csproj", "{E6C78BDF-C66F-4699-A785-E5DE653C9D64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Section 03-Array, ArrayList e List", "Section 03-Array, ArrayList e List\Section 03-Array, ArrayList e List.csproj", "{E6C78BDF-C66F-4699-A785-E5DE653C9D64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Array i", "01-Array i\01-Array i.csproj", "{8704F6E3-3799-4B39-A2B7-91050F2A4114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Array i", "01-Array i\01-Array i.csproj", "{8704F6E3-3799-4B39-A2B7-91050F2A4114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Array II", "02-Array II\02-Array II.csproj", "{ACEF7EDD-DCA4-4488-98CB-5914C562EBC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Array II", "02-Array II\02-Array II.csproj", "{ACEF7EDD-DCA4-4488-98CB-5914C562EBC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Array III", "03-Array III\03-Array III.csproj", "{1C30A5BC-95D4-4051-9CB3-75885F69A206}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-Array III", "03-Array III\03-Array III.csproj", "{1C30A5BC-95D4-4051-9CB3-75885F69A206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Classe Array", "05-Classe Array\05-Classe Array.csproj", "{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-Classe Array", "05-Classe Array\05-Classe Array.csproj", "{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06- ExercicioArrays", "06- ExercicioArrays\06- ExercicioArrays.csproj", "{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
