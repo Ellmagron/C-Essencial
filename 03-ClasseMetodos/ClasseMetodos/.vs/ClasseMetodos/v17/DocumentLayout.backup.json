@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documentos\\estudos\\Udemy\\C#\\03-ClasseMetodos\\ClasseMetodos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F2FE1-E5B7-449B-91A7-41AFA0B97FAD}|PartialClass\\PartialClass.csproj|e:\\documentos\\estudos\\udemy\\c#\\03-classemetodos\\classemetodos\\partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F2FE1-E5B7-449B-91A7-41AFA0B97FAD}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F2FE1-E5B7-449B-91A7-41AFA0B97FAD}|PartialClass\\PartialClass.csproj|e:\\documentos\\estudos\\udemy\\c#\\03-classemetodos\\classemetodos\\partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F2FE1-E5B7-449B-91A7-41AFA0B97FAD}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\minhapartialclassprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F2FE1-E5B7-449B-91A7-41AFA0B97FAD}|PartialClass\\PartialClass.csproj|e:\\documentos\\estudos\\udemy\\c#\\03-classemetodos\\classemetodos\\partialclass\\minhapartialclassmetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F2FE1-E5B7-449B-91A7-41AFA0B97FAD}|PartialClass\\PartialClass.csproj|solutionrelative:partialclass\\minhapartialclassmetodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MinhaPartialClassMetodo.cs",
+              "DocumentMoniker": "E:\\Documentos\\estudos\\Udemy\\C#\\03-ClasseMetodos\\ClasseMetodos\\PartialClass\\MinhaPartialClassMetodo.cs",
+              "RelativeDocumentMoniker": "PartialClass\\MinhaPartialClassMetodo.cs",
+              "ToolTip": "E:\\Documentos\\estudos\\Udemy\\C#\\03-ClasseMetodos\\ClasseMetodos\\PartialClass\\MinhaPartialClassMetodo.cs",
+              "RelativeToolTip": "PartialClass\\MinhaPartialClassMetodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T20:37:09.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinhaPartialClassProps.cs",
+              "DocumentMoniker": "E:\\Documentos\\estudos\\Udemy\\C#\\03-ClasseMetodos\\ClasseMetodos\\PartialClass\\MinhaPartialClassProps.cs",
+              "RelativeDocumentMoniker": "PartialClass\\MinhaPartialClassProps.cs",
+              "ToolTip": "E:\\Documentos\\estudos\\Udemy\\C#\\03-ClasseMetodos\\ClasseMetodos\\PartialClass\\MinhaPartialClassProps.cs",
+              "RelativeToolTip": "PartialClass\\MinhaPartialClassProps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T20:37:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documentos\\estudos\\Udemy\\C#\\03-ClasseMetodos\\ClasseMetodos\\PartialClass\\Program.cs",
+              "RelativeDocumentMoniker": "PartialClass\\Program.cs",
+              "ToolTip": "E:\\Documentos\\estudos\\Udemy\\C#\\03-ClasseMetodos\\ClasseMetodos\\PartialClass\\Program.cs",
+              "RelativeToolTip": "PartialClass\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T20:33:23.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

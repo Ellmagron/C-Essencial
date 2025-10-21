@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\bin\Debug\net8.0\Construtor.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\bin\Debug\net8.0\Construtor.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\bin\Debug\net8.0\Construtor.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\bin\Debug\net8.0\Construtor.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\bin\Debug\net8.0\Construtor.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\Construtor.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\Construtor.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\Construtor.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\refint\Construtor.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\Construtor.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\Construtor.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\Construtor\obj\Debug\net8.0\ref\Construtor.dll

@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.exe
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.deps.json
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.dll
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.pdb
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.dll
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\refint\OperadoresIncrementoDecremento1.dll
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.pdb
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\ref\OperadoresIncrementoDecremento1.dll

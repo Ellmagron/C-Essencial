@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\bin\Debug\net8.0\MetodoParametro.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\bin\Debug\net8.0\MetodoParametro.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\bin\Debug\net8.0\MetodoParametro.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\bin\Debug\net8.0\MetodoParametro.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\bin\Debug\net8.0\MetodoParametro.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\MetodoParametro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\MetodoParametro.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\MetodoParametro.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\MetodoParametro.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\MetodoParametro.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\refint\MetodoParametro.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\MetodoParametro.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\MetodoParametro.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodoParametro\obj\Debug\net8.0\ref\MetodoParametro.dll

@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\bin\Debug\net8.0\ExercicioEnum.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\refint\ExercicioEnum.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ExercicioEnum.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ExercicioEnum\obj\Debug\net8.0\ref\ExercicioEnum.dll

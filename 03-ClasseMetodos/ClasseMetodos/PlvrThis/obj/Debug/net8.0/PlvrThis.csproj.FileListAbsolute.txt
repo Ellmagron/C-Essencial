@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\bin\Debug\net8.0\PlvrThis.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\bin\Debug\net8.0\PlvrThis.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\bin\Debug\net8.0\PlvrThis.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\bin\Debug\net8.0\PlvrThis.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\bin\Debug\net8.0\PlvrThis.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\PlvrThis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\PlvrThis.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\PlvrThis.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\PlvrThis.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\PlvrThis.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\refint\PlvrThis.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\PlvrThis.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\PlvrThis.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PlvrThis\obj\Debug\net8.0\ref\PlvrThis.dll

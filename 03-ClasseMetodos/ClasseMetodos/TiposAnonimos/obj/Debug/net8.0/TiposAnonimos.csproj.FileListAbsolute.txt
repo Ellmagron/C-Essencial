@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\bin\Debug\net8.0\TiposAnonimos.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\refint\TiposAnonimos.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\TiposAnonimos.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\TiposAnonimos\obj\Debug\net8.0\ref\TiposAnonimos.dll

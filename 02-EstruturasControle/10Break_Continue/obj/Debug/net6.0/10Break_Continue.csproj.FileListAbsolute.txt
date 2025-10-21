@@ -1,0 +1,15 @@
+D:\_cursocs\EstruturasControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.exe
+D:\_cursocs\EstruturasControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.deps.json
+D:\_cursocs\EstruturasControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.runtimeconfig.json
+D:\_cursocs\EstruturasControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.dll
+D:\_cursocs\EstruturasControle\10Break_Continue\bin\Debug\net6.0\10Break_Continue.pdb
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.csproj.AssemblyReference.cache
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.AssemblyInfoInputs.cache
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.AssemblyInfo.cs
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.csproj.CoreCompileInputs.cache
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.dll
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\refint\10Break_Continue.dll
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.pdb
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\10Break_Continue.genruntimeconfig.cache
+D:\_cursocs\EstruturasControle\10Break_Continue\obj\Debug\net6.0\ref\10Break_Continue.dll

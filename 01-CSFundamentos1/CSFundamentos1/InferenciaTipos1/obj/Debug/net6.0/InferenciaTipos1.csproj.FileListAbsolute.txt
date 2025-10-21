@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.exe
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.deps.json
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.dll
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\bin\Debug\net6.0\InferenciaTipos1.pdb
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.dll
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\refint\InferenciaTipos1.dll
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.pdb
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\InferenciaTipos1.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\InferenciaTipos1\obj\Debug\net6.0\ref\InferenciaTipos1.dll

@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\bin\Debug\net6.0\SaidaDados.exe
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\bin\Debug\net6.0\SaidaDados.deps.json
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\bin\Debug\net6.0\SaidaDados.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\bin\Debug\net6.0\SaidaDados.dll
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\bin\Debug\net6.0\SaidaDados.pdb
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.dll
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\refint\SaidaDados.dll
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.pdb
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\SaidaDados.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\SaidaDadosFormatacao\obj\Debug\net6.0\ref\SaidaDados.dll

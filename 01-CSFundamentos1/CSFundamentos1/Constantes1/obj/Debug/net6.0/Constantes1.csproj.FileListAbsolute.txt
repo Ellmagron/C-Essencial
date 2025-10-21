@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\Constantes1\bin\Debug\net6.0\Constantes1.exe
+D:\_cursocs\CSFundamentos1\Constantes1\bin\Debug\net6.0\Constantes1.deps.json
+D:\_cursocs\CSFundamentos1\Constantes1\bin\Debug\net6.0\Constantes1.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\Constantes1\bin\Debug\net6.0\Constantes1.dll
+D:\_cursocs\CSFundamentos1\Constantes1\bin\Debug\net6.0\Constantes1.pdb
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.dll
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\refint\Constantes1.dll
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.pdb
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\Constantes1.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\Constantes1\obj\Debug\net6.0\ref\Constantes1.dll

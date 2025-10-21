@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\bin\Debug\net8.0\ClasseMetodos.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\refint\ClasseMetodos.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ClasseMetodos.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\ClasseMetodos\obj\Debug\net8.0\ref\ClasseMetodos.dll

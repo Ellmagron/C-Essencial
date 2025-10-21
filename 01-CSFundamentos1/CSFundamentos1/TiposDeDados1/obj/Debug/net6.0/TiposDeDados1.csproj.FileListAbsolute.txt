@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.exe
+D:\_cursocs\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.deps.json
+D:\_cursocs\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.dll
+D:\_cursocs\CSFundamentos1\TiposDeDados1\bin\Debug\net6.0\TiposDeDados1.pdb
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.dll
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\refint\TiposDeDados1.dll
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.pdb
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\TiposDeDados1.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\TiposDeDados1\obj\Debug\net6.0\ref\TiposDeDados1.dll

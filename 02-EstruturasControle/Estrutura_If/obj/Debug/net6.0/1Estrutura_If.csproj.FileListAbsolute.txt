@@ -1,0 +1,15 @@
+D:\_cursocs\EstruturasControle\Estrutura_If\bin\Debug\net6.0\1Estrutura_If.exe
+D:\_cursocs\EstruturasControle\Estrutura_If\bin\Debug\net6.0\1Estrutura_If.deps.json
+D:\_cursocs\EstruturasControle\Estrutura_If\bin\Debug\net6.0\1Estrutura_If.runtimeconfig.json
+D:\_cursocs\EstruturasControle\Estrutura_If\bin\Debug\net6.0\1Estrutura_If.dll
+D:\_cursocs\EstruturasControle\Estrutura_If\bin\Debug\net6.0\1Estrutura_If.pdb
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.csproj.AssemblyReference.cache
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.AssemblyInfoInputs.cache
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.AssemblyInfo.cs
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.csproj.CoreCompileInputs.cache
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.dll
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\refint\1Estrutura_If.dll
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.pdb
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\1Estrutura_If.genruntimeconfig.cache
+D:\_cursocs\EstruturasControle\Estrutura_If\obj\Debug\net6.0\ref\1Estrutura_If.dll

@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.exe
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.deps.json
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.dll
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\bin\Debug\net6.0\OperadoresAtribuicao1.pdb
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.dll
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\refint\OperadoresAtribuicao1.dll
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.pdb
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\OperadoresAtribuicao1.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\OperadoresAtribuicao1\obj\Debug\net6.0\ref\OperadoresAtribuicao1.dll

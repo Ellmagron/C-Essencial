@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\bin\Debug\net8.0\PassandoArgumentosOut.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\bin\Debug\net8.0\PassandoArgumentosOut.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\bin\Debug\net8.0\PassandoArgumentosOut.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\bin\Debug\net8.0\PassandoArgumentosOut.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\bin\Debug\net8.0\PassandoArgumentosOut.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\PassandoArgumentosOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\PassandoArgumentosOut.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\PassandoArgumentosOut.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\PassandoArgumentosOut.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\PassandoArgumentosOut.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\refint\PassandoArgumentosOut.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\PassandoArgumentosOut.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\PassandoArgumentosOut.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosOut\obj\Debug\net8.0\ref\PassandoArgumentosOut.dll

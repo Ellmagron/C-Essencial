@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\bin\Debug\net8.0\MembroEstatico.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\bin\Debug\net8.0\MembroEstatico.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\bin\Debug\net8.0\MembroEstatico.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\bin\Debug\net8.0\MembroEstatico.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\bin\Debug\net8.0\MembroEstatico.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\MembroEstatico.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\MembroEstatico.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\MembroEstatico.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\MembroEstatico.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\MembroEstatico.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\refint\MembroEstatico.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\MembroEstatico.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\MembroEstatico.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MembroEstatico\obj\Debug\net8.0\ref\MembroEstatico.dll

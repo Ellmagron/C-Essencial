@@ -1,0 +1,15 @@
+D:\_cursocs\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.exe
+D:\_cursocs\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.deps.json
+D:\_cursocs\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.runtimeconfig.json
+D:\_cursocs\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.dll
+D:\_cursocs\EstruturasControle\9Repeticao_for\bin\Debug\net6.0\9Repeticao_for.pdb
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.csproj.AssemblyReference.cache
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.AssemblyInfoInputs.cache
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.AssemblyInfo.cs
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.csproj.CoreCompileInputs.cache
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.dll
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\refint\9Repeticao_for.dll
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.pdb
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\9Repeticao_for.genruntimeconfig.cache
+D:\_cursocs\EstruturasControle\9Repeticao_for\obj\Debug\net6.0\ref\9Repeticao_for.dll

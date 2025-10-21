@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\Identificadores\bin\Debug\net6.0\Identificadores.exe
+D:\_cursocs\CSFundamentos1\Identificadores\bin\Debug\net6.0\Identificadores.deps.json
+D:\_cursocs\CSFundamentos1\Identificadores\bin\Debug\net6.0\Identificadores.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\Identificadores\bin\Debug\net6.0\Identificadores.dll
+D:\_cursocs\CSFundamentos1\Identificadores\bin\Debug\net6.0\Identificadores.pdb
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.dll
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\refint\Identificadores.dll
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.pdb
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\Identificadores.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\Identificadores\obj\Debug\net6.0\ref\Identificadores.dll

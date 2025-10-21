@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\bin\Debug\net8.0\PassandoArgumentosPorReferencia.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\bin\Debug\net8.0\PassandoArgumentosPorReferencia.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\bin\Debug\net8.0\PassandoArgumentosPorReferencia.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\bin\Debug\net8.0\PassandoArgumentosPorReferencia.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\bin\Debug\net8.0\PassandoArgumentosPorReferencia.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\PassandoArgumentosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\PassandoArgumentosPorReferencia.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\PassandoArgumentosPorReferencia.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\PassandoArgumentosPorReferencia.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\PassandoArgumentosPorReferencia.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\refint\PassandoArgumentosPorReferencia.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\PassandoArgumentosPorReferencia.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\PassandoArgumentosPorReferencia.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoArgumentosPorReferencia\obj\Debug\net8.0\ref\PassandoArgumentosPorReferencia.dll

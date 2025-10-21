@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\1ConversaoTipos.exe
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\1ConversaoTipos.deps.json
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\1ConversaoTipos.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\1ConversaoTipos.dll
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\bin\Debug\net6.0\1ConversaoTipos.pdb
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.dll
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\refint\1ConversaoTipos.dll
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.pdb
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\1ConversaoTipos.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\ConversaoTipos1\obj\Debug\net6.0\ref\1ConversaoTipos.dll

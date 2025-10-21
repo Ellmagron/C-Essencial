@@ -1,0 +1,15 @@
+D:\_cursocs\CSFundamentos1\EntradaDeDados\bin\Debug\net6.0\1EntradaDeDados.exe
+D:\_cursocs\CSFundamentos1\EntradaDeDados\bin\Debug\net6.0\1EntradaDeDados.deps.json
+D:\_cursocs\CSFundamentos1\EntradaDeDados\bin\Debug\net6.0\1EntradaDeDados.runtimeconfig.json
+D:\_cursocs\CSFundamentos1\EntradaDeDados\bin\Debug\net6.0\1EntradaDeDados.dll
+D:\_cursocs\CSFundamentos1\EntradaDeDados\bin\Debug\net6.0\1EntradaDeDados.pdb
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.csproj.AssemblyReference.cache
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.AssemblyInfoInputs.cache
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.AssemblyInfo.cs
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.dll
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\refint\1EntradaDeDados.dll
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.pdb
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\1EntradaDeDados.genruntimeconfig.cache
+D:\_cursocs\CSFundamentos1\EntradaDeDados\obj\Debug\net6.0\ref\1EntradaDeDados.dll

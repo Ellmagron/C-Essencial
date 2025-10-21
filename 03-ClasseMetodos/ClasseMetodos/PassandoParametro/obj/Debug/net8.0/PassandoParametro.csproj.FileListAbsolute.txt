@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\bin\Debug\net8.0\PassandoParametro.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\bin\Debug\net8.0\PassandoParametro.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\bin\Debug\net8.0\PassandoParametro.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\bin\Debug\net8.0\PassandoParametro.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\bin\Debug\net8.0\PassandoParametro.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\PassandoParametro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\PassandoParametro.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\PassandoParametro.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\PassandoParametro.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\PassandoParametro.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\refint\PassandoParametro.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\PassandoParametro.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\PassandoParametro.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\PassandoParametro\obj\Debug\net8.0\ref\PassandoParametro.dll

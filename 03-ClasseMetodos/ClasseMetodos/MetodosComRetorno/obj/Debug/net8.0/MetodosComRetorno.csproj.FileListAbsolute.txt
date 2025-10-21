@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\bin\Debug\net8.0\MetodosComRetorno.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\refint\MetodosComRetorno.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\MetodosComRetorno.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\MetodosComRetorno\obj\Debug\net8.0\ref\MetodosComRetorno.dll

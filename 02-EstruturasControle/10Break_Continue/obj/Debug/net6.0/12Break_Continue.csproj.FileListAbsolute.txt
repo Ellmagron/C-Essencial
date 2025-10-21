@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\bin\Debug\net6.0\12Break_Continue.exe
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\bin\Debug\net6.0\12Break_Continue.deps.json
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\bin\Debug\net6.0\12Break_Continue.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\bin\Debug\net6.0\12Break_Continue.dll
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\bin\Debug\net6.0\12Break_Continue.pdb
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\12Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\12Break_Continue.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\12Break_Continue.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\12Break_Continue.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\12Break_Continue.dll
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\refint\12Break_Continue.dll
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\12Break_Continue.pdb
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\12Break_Continue.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\EstruturasControle\10Break_Continue\obj\Debug\net6.0\ref\12Break_Continue.dll

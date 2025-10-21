@@ -1,0 +1,14 @@
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\bin\Debug\net8.0\BlocoTryCatch.exe
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\bin\Debug\net8.0\BlocoTryCatch.deps.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\bin\Debug\net8.0\BlocoTryCatch.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\bin\Debug\net8.0\BlocoTryCatch.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\bin\Debug\net8.0\BlocoTryCatch.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\BlocoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\BlocoTryCatch.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\BlocoTryCatch.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\BlocoTryCatch.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\BlocoTryCatch.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\refint\BlocoTryCatch.dll
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\BlocoTryCatch.pdb
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\BlocoTryCatch.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C#\03-ClasseMetodos\ClasseMetodos\BlocoTryCatch\obj\Debug\net8.0\ref\BlocoTryCatch.dll

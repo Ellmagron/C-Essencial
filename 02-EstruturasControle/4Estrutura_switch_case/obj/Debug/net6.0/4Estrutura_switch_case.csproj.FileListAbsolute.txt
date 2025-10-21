@@ -1,0 +1,15 @@
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\bin\Debug\net6.0\4Estrutura_switch_case.exe
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\bin\Debug\net6.0\4Estrutura_switch_case.deps.json
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\bin\Debug\net6.0\4Estrutura_switch_case.runtimeconfig.json
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\bin\Debug\net6.0\4Estrutura_switch_case.dll
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\bin\Debug\net6.0\4Estrutura_switch_case.pdb
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.csproj.AssemblyReference.cache
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.AssemblyInfoInputs.cache
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.AssemblyInfo.cs
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.csproj.CoreCompileInputs.cache
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.dll
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\refint\4Estrutura_switch_case.dll
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.pdb
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\4Estrutura_switch_case.genruntimeconfig.cache
+D:\_cursocs\EstruturasControle\4Estrutura_switch_case\obj\Debug\net6.0\ref\4Estrutura_switch_case.dll
