@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-Classe Array", "05-Class
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06- ExercicioArrays", "06- ExercicioArrays\06- ExercicioArrays.csproj", "{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Colecao list t", "08-Colecao list t\08-Colecao list t.csproj", "{D42BC225-3D35-463A-992B-F2961657DD54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42BC225-3D35-463A-992B-F2961657DD54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42BC225-3D35-463A-992B-F2961657DD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42BC225-3D35-463A-992B-F2961657DD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42BC225-3D35-463A-992B-F2961657DD54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
