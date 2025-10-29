@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\",
+  "WorkspaceRootPath": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D42BC225-3D35-463A-992B-F2961657DD54}|08-Colecao list t\\08-Colecao list t.csproj|e:\\documentos\\estudos\\udemy\\c-essencial\\04-array, arraylist e list\\08-colecao list t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D42BC225-3D35-463A-992B-F2961657DD54}|08-Colecao list t\\08-Colecao list t.csproj|solutionrelative:08-colecao list t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D111C8EF-33CB-44FD-BD32-9773731F841A}|08- Exercicio ArrayBidimensional\\08- Exercicio ArrayBidimensional.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\08- exercicio arraybidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D111C8EF-33CB-44FD-BD32-9773731F841A}|08- Exercicio ArrayBidimensional\\08- Exercicio ArrayBidimensional.csproj|solutionrelative:08- exercicio arraybidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +14,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\08-Colecao list t\\Program.cs",
-              "RelativeDocumentMoniker": "08-Colecao list t\\Program.cs",
-              "ToolTip": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\08-Colecao list t\\Program.cs",
-              "RelativeToolTip": "08-Colecao list t\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\08- Exercicio ArrayBidimensional\\Program.cs",
+              "RelativeDocumentMoniker": "08- Exercicio ArrayBidimensional\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\08- Exercicio ArrayBidimensional\\Program.cs",
+              "RelativeToolTip": "08- Exercicio ArrayBidimensional\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T11:21:36.19Z",
+              "WhenOpened": "2025-10-29T11:33:49.592Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 749,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

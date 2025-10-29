@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Section 03-Array, ArrayList e List", "Section 03-Array, ArrayList e List\Section 03-Array, ArrayList e List.csproj", "{E6C78BDF-C66F-4699-A785-E5DE653C9D64}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Array i", "01-Array i\01-Array i.csproj", "{8704F6E3-3799-4B39-A2B7-91050F2A4114}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-Array II", "02-Array II\02-Array II.csproj", "{ACEF7EDD-DCA4-4488-98CB-5914C562EBC9}"
@@ -13,9 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-Array III", "03-Array II
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-Classe Array", "05-Classe Array\05-Classe Array.csproj", "{6ED25E26-12C3-4A6E-92F7-6B4EFF5A2F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06- ExercicioArrays", "06- ExercicioArrays\06- ExercicioArrays.csproj", "{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06- ExercicioArrays", "06- ExercicioArrays\06- ExercicioArrays.csproj", "{DBA1763C-10F4-46E8-9340-2BA0E16EAB17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Colecao list t", "08-Colecao list t\08-Colecao list t.csproj", "{D42BC225-3D35-463A-992B-F2961657DD54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-Colecao list t", "08-Colecao list t\10-Colecao list t.csproj", "{D42BC225-3D35-463A-992B-F2961657DD54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-ArraysMultidimensional", "07-ArraysMultidimensional\07-ArraysMultidimensional.csproj", "{F3737ED5-7D96-41CD-8848-E3727E7E1E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08- Exercicio ArrayBidimensional", "08- Exercicio ArrayBidimensional\08- Exercicio ArrayBidimensional.csproj", "{D111C8EF-33CB-44FD-BD32-9773731F841A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09- ArrayList", "09- ArrayList\09- ArrayList.csproj", "{2C180650-0B13-4DBC-8099-C6CF6CF68216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +27,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6C78BDF-C66F-4699-A785-E5DE653C9D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E6C78BDF-C66F-4699-A785-E5DE653C9D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E6C78BDF-C66F-4699-A785-E5DE653C9D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E6C78BDF-C66F-4699-A785-E5DE653C9D64}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8704F6E3-3799-4B39-A2B7-91050F2A4114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8704F6E3-3799-4B39-A2B7-91050F2A4114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8704F6E3-3799-4B39-A2B7-91050F2A4114}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,6 +51,18 @@ Global
 		{D42BC225-3D35-463A-992B-F2961657DD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D42BC225-3D35-463A-992B-F2961657DD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D42BC225-3D35-463A-992B-F2961657DD54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3737ED5-7D96-41CD-8848-E3727E7E1E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3737ED5-7D96-41CD-8848-E3727E7E1E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3737ED5-7D96-41CD-8848-E3727E7E1E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3737ED5-7D96-41CD-8848-E3727E7E1E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D111C8EF-33CB-44FD-BD32-9773731F841A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D111C8EF-33CB-44FD-BD32-9773731F841A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D111C8EF-33CB-44FD-BD32-9773731F841A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D111C8EF-33CB-44FD-BD32-9773731F841A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C180650-0B13-4DBC-8099-C6CF6CF68216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C180650-0B13-4DBC-8099-C6CF6CF68216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C180650-0B13-4DBC-8099-C6CF6CF68216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C180650-0B13-4DBC-8099-C6CF6CF68216}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

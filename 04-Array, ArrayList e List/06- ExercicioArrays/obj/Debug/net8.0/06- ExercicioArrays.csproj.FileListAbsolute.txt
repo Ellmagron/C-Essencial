@@ -13,3 +13,18 @@ C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayLis
 C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.pdb
 C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.genruntimeconfig.cache
 C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\Section 03-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\ref\06- ExercicioArrays.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\bin\Debug\net8.0\06- ExercicioArrays.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\bin\Debug\net8.0\06- ExercicioArrays.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\bin\Debug\net8.0\06- ExercicioArrays.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\bin\Debug\net8.0\06- ExercicioArrays.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\bin\Debug\net8.0\06- ExercicioArrays.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\refint\06- ExercicioArrays.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\06- ExercicioArrays.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\06- ExercicioArrays\obj\Debug\net8.0\ref\06- ExercicioArrays.dll

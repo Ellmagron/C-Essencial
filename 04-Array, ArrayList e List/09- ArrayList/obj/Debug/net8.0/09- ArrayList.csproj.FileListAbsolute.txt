@@ -1,0 +1,5 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\09- ArrayList\obj\Debug\net8.0\09- ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\09- ArrayList\obj\Debug\net8.0\09- ArrayList.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\09- ArrayList\obj\Debug\net8.0\09- ArrayList.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\09- ArrayList\obj\Debug\net8.0\09- ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\09- ArrayList\obj\Debug\net8.0\09- ArrayList.sourcelink.json

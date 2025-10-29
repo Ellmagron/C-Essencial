@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\bin\Debug\net8.0\10-Colecao list t.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\bin\Debug\net8.0\10-Colecao list t.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\bin\Debug\net8.0\10-Colecao list t.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\bin\Debug\net8.0\10-Colecao list t.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\bin\Debug\net8.0\10-Colecao list t.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\refint\10-Colecao list t.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\10-Colecao list t.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08-Colecao list t\obj\Debug\net8.0\ref\10-Colecao list t.dll

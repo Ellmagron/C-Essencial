@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\bin\Debug\net8.0\08- Exercicio ArrayBidimensional.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\bin\Debug\net8.0\08- Exercicio ArrayBidimensional.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\bin\Debug\net8.0\08- Exercicio ArrayBidimensional.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\bin\Debug\net8.0\08- Exercicio ArrayBidimensional.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\bin\Debug\net8.0\08- Exercicio ArrayBidimensional.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\refint\08- Exercicio ArrayBidimensional.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\08- Exercicio ArrayBidimensional.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\08- Exercicio ArrayBidimensional\obj\Debug\net8.0\ref\08- Exercicio ArrayBidimensional.dll
