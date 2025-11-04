@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D111C8EF-33CB-44FD-BD32-9773731F841A}|08- Exercicio ArrayBidimensional\\08- Exercicio ArrayBidimensional.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\08- exercicio arraybidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D111C8EF-33CB-44FD-BD32-9773731F841A}|08- Exercicio ArrayBidimensional\\08- Exercicio ArrayBidimensional.csproj|solutionrelative:08- exercicio arraybidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F04FC2A7-4891-4B6E-9EF2-75CFE1070242}|13- Indexadores\\13- Indexadores.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\13- indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04FC2A7-4891-4B6E-9EF2-75CFE1070242}|13- Indexadores\\13- Indexadores.csproj|solutionrelative:13- indexadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04FC2A7-4891-4B6E-9EF2-75CFE1070242}|13- Indexadores\\13- Indexadores.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\13- indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04FC2A7-4891-4B6E-9EF2-75CFE1070242}|13- Indexadores\\13- Indexadores.csproj|solutionrelative:13- indexadores\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\12-exercicio - list t\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|solutionrelative:12-exercicio - list t\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\12-exercicio - list t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|solutionrelative:12-exercicio - list t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\12-exercicio - list t\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|solutionrelative:12-exercicio - list t\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,16 +46,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\13- Indexadores\\Time.cs",
+              "RelativeDocumentMoniker": "13- Indexadores\\Time.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\13- Indexadores\\Time.cs",
+              "RelativeToolTip": "13- Indexadores\\Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T11:32:09.708Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\08- Exercicio ArrayBidimensional\\Program.cs",
-              "RelativeDocumentMoniker": "08- Exercicio ArrayBidimensional\\Program.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\08- Exercicio ArrayBidimensional\\Program.cs",
-              "RelativeToolTip": "08- Exercicio ArrayBidimensional\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\13- Indexadores\\Program.cs",
+              "RelativeDocumentMoniker": "13- Indexadores\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\13- Indexadores\\Program.cs",
+              "RelativeToolTip": "13- Indexadores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T11:33:49.592Z",
+              "WhenOpened": "2025-11-04T11:31:51.008Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FonteDados.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\FonteDados.cs",
+              "RelativeDocumentMoniker": "12-Exercicio - List T\\FonteDados.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\FonteDados.cs",
+              "RelativeToolTip": "12-Exercicio - List T\\FonteDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:28:07.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\Aluno.cs",
+              "RelativeDocumentMoniker": "12-Exercicio - List T\\Aluno.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\Aluno.cs",
+              "RelativeToolTip": "12-Exercicio - List T\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:18:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\Program.cs",
+              "RelativeDocumentMoniker": "12-Exercicio - List T\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\Program.cs",
+              "RelativeToolTip": "12-Exercicio - List T\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:58:54.599Z"
             }
           ]
         },

@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\bin\Debug\net8.0\12-Exercicio - List T.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\bin\Debug\net8.0\12-Exercicio - List T.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\bin\Debug\net8.0\12-Exercicio - List T.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\bin\Debug\net8.0\12-Exercicio - List T.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\bin\Debug\net8.0\12-Exercicio - List T.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\refint\12-Exercicio - List T.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\12-Exercicio - List T.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\12-Exercicio - List T\obj\Debug\net8.0\ref\12-Exercicio - List T.dll

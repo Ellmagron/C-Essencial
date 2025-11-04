@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\bin\Debug\net8.0\13- Indexadores.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\bin\Debug\net8.0\13- Indexadores.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\bin\Debug\net8.0\13- Indexadores.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\bin\Debug\net8.0\13- Indexadores.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\bin\Debug\net8.0\13- Indexadores.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\refint\13- Indexadores.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\13- Indexadores.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\04-Array, ArrayList e List\13- Indexadores\obj\Debug\net8.0\ref\13- Indexadores.dll
