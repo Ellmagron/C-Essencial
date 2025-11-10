@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A886E5C5-B678-4F99-9577-F124FA08A817}|14-ClasseRandom\\14-ClasseRandom.csproj|e:\\documentos\\estudos\\udemy\\c-essencial\\04-array, arraylist e list\\14-classerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A886E5C5-B678-4F99-9577-F124FA08A817}|14-ClasseRandom\\14-ClasseRandom.csproj|solutionrelative:14-classerandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +18,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|e:\\documentos\\estudos\\udemy\\c-essencial\\04-array, arraylist e list\\12-exercicio - list t\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|solutionrelative:12-exercicio - list t\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\12-exercicio - list t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|solutionrelative:12-exercicio - list t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\12-exercicio - list t\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA398A54-DBAB-4A6B-86B5-8E4E5DAD740F}|12-Exercicio - List T\\12-Exercicio - List T.csproj|solutionrelative:12-exercicio - list t\\fontedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E117D3-5B05-4458-B846-99801A5FCAE7}|15-ExercicioFinal\\15-ExercicioFinal.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\15-exerciciofinal\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E117D3-5B05-4458-B846-99801A5FCAE7}|15-ExercicioFinal\\15-ExercicioFinal.csproj|solutionrelative:15-exerciciofinal\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3737ED5-7D96-41CD-8848-E3727E7E1E43}|07-ArraysMultidimensional\\07-ArraysMultidimensional.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\07-arraysmultidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3737ED5-7D96-41CD-8848-E3727E7E1E43}|07-ArraysMultidimensional\\07-ArraysMultidimensional.csproj|solutionrelative:07-arraysmultidimensional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E117D3-5B05-4458-B846-99801A5FCAE7}|15-ExercicioFinal\\15-ExercicioFinal.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\04-array, arraylist e list\\15-exerciciofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E117D3-5B05-4458-B846-99801A5FCAE7}|15-ExercicioFinal\\15-ExercicioFinal.csproj|solutionrelative:15-exerciciofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 26fa8418df318a0e297ca6f363673fdfa28ce185
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +47,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> 26fa8418df318a0e297ca6f363673fdfa28ce185
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,12 +59,21 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+=======
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+>>>>>>> 26fa8418df318a0e297ca6f363673fdfa28ce185
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\14-ClasseRandom\\Program.cs",
               "RelativeDocumentMoniker": "14-ClasseRandom\\Program.cs",
               "ToolTip": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\14-ClasseRandom\\Program.cs",
@@ -78,12 +112,68 @@
               "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\Program.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\Program.cs",
+>>>>>>> 26fa8418df318a0e297ca6f363673fdfa28ce185
               "RelativeDocumentMoniker": "12-Exercicio - List T\\Program.cs",
               "ToolTip": "E:\\Documentos\\estudos\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\Program.cs",
               "RelativeToolTip": "12-Exercicio - List T\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T11:58:54.599Z"
+              "WhenOpened": "2025-11-07T11:01:41.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FonteDados.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\FonteDados.cs",
+              "RelativeDocumentMoniker": "12-Exercicio - List T\\FonteDados.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\12-Exercicio - List T\\FonteDados.cs",
+              "RelativeToolTip": "12-Exercicio - List T\\FonteDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T11:06:49.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\15-ExercicioFinal\\Pessoa.cs",
+              "RelativeDocumentMoniker": "15-ExercicioFinal\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\15-ExercicioFinal\\Pessoa.cs",
+              "RelativeToolTip": "15-ExercicioFinal\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:55:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\07-ArraysMultidimensional\\Program.cs",
+              "RelativeDocumentMoniker": "07-ArraysMultidimensional\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\07-ArraysMultidimensional\\Program.cs",
+              "RelativeToolTip": "07-ArraysMultidimensional\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T10:35:30.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\15-ExercicioFinal\\Program.cs",
+              "RelativeDocumentMoniker": "15-ExercicioFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\04-Array, ArrayList e List\\15-ExercicioFinal\\Program.cs",
+              "RelativeToolTip": "15-ExercicioFinal\\Program.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAUwKwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T10:16:12.685Z",
+              "EditorCaption": ""
             }
           ]
         }
