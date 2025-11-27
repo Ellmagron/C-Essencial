@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MétodoEstatico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb8c0cdac8e7bdd8fffbda589a990389e893d00c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a4a5aa3dca03a61db914894d8a207737da60f41")]
 [assembly: System.Reflection.AssemblyProductAttribute("MétodoEstatico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MétodoEstatico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

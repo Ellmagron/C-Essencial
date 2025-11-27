@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\bin\Debug\net8.0\06- Herança e new.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\bin\Debug\net8.0\06- Herança e new.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\bin\Debug\net8.0\06- Herança e new.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\bin\Debug\net8.0\06- Herança e new.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\bin\Debug\net8.0\06- Herança e new.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\refint\06- Herança e new.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\06- Herança e new.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\06- Herança e new\obj\Debug\net8.0\ref\06- Herança e new.dll

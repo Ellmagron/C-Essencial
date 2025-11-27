@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\bin\Debug\net8.0\003- HerancaConstrutores.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\bin\Debug\net8.0\003- HerancaConstrutores.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\bin\Debug\net8.0\003- HerancaConstrutores.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\bin\Debug\net8.0\003- HerancaConstrutores.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\bin\Debug\net8.0\003- HerancaConstrutores.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\refint\003- HerancaConstrutores.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\003- HerancaConstrutores.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\003- HerancaConstrutores\obj\Debug\net8.0\ref\003- HerancaConstrutores.dll

@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\bin\Debug\net8.0\07- Herança - virtual e override.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\bin\Debug\net8.0\07- Herança - virtual e override.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\bin\Debug\net8.0\07- Herança - virtual e override.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\bin\Debug\net8.0\07- Herança - virtual e override.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\bin\Debug\net8.0\07- Herança - virtual e override.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\refint\07- Herança - virtual e override.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\07- Herança - virtual e override.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\07- Herança - virtual e override\obj\Debug\net8.0\ref\07- Herança - virtual e override.dll

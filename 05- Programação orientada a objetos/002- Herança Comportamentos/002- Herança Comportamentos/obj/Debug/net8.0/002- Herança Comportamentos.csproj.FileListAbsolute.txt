@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\bin\Debug\net8.0\002- Herança Comportamentos.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\bin\Debug\net8.0\002- Herança Comportamentos.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\bin\Debug\net8.0\002- Herança Comportamentos.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\bin\Debug\net8.0\002- Herança Comportamentos.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\bin\Debug\net8.0\002- Herança Comportamentos.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\refint\002- Herança Comportamentos.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\002- Herança Comportamentos.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\002- Herança Comportamentos\002- Herança Comportamentos\obj\Debug\net8.0\ref\002- Herança Comportamentos.dll
