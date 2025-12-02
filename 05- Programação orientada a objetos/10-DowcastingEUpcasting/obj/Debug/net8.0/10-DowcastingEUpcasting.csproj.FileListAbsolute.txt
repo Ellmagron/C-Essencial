@@ -1,0 +1,15 @@
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\bin\Debug\net8.0\10-DowcastingEUpcasting.exe
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\bin\Debug\net8.0\10-DowcastingEUpcasting.deps.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\bin\Debug\net8.0\10-DowcastingEUpcasting.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\bin\Debug\net8.0\10-DowcastingEUpcasting.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\bin\Debug\net8.0\10-DowcastingEUpcasting.pdb
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.sourcelink.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\refint\10-DowcastingEUpcasting.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.pdb
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\10-DowcastingEUpcasting.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\10-DowcastingEUpcasting\obj\Debug\net8.0\ref\10-DowcastingEUpcasting.dll

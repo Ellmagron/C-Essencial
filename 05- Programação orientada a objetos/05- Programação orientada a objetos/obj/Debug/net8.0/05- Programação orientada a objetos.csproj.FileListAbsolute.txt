@@ -1,0 +1,15 @@
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\bin\Debug\net8.0\05- Programação orientada a objetos.exe
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\bin\Debug\net8.0\05- Programação orientada a objetos.deps.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\bin\Debug\net8.0\05- Programação orientada a objetos.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\bin\Debug\net8.0\05- Programação orientada a objetos.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\bin\Debug\net8.0\05- Programação orientada a objetos.pdb
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.sourcelink.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\refint\05- Programação orientada a objetos.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.pdb
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\05- Programação orientada a objetos.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\05- Programação orientada a objetos\obj\Debug\net8.0\ref\05- Programação orientada a objetos.dll

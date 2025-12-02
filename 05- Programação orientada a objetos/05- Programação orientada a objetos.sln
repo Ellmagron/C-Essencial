@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05- Programação orientada a objetos", "05- Programação orientada a objetos\05- Programação orientada a objetos.csproj", "{14F13145-449B-47A9-AB03-DA1334168377}"
 EndProject
@@ -16,6 +16,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08- Exercicio - Heranca", "08- Exercicio - Heranca\08- Exercicio - Heranca.csproj", "{0580AC09-0F72-4B8A-9C15-532D22E07252}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Tipos de Heranca", "09-Tipos de Heranca\09-Tipos de Heranca.csproj", "{86AA18F3-2058-43F1-A673-52C13090C5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-DowcastingEUpcasting", "10-DowcastingEUpcasting\10-DowcastingEUpcasting.csproj", "{764712AE-23B6-4222-868E-8E3F3338E17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-OperadorIsEas", "11-OperadorIsEas\11-OperadorIsEas.csproj", "{62E5B827-4DD5-4E7E-8231-D58BA9523A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{86AA18F3-2058-43F1-A673-52C13090C5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86AA18F3-2058-43F1-A673-52C13090C5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86AA18F3-2058-43F1-A673-52C13090C5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764712AE-23B6-4222-868E-8E3F3338E17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764712AE-23B6-4222-868E-8E3F3338E17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764712AE-23B6-4222-868E-8E3F3338E17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764712AE-23B6-4222-868E-8E3F3338E17B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E5B827-4DD5-4E7E-8231-D58BA9523A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E5B827-4DD5-4E7E-8231-D58BA9523A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E5B827-4DD5-4E7E-8231-D58BA9523A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E5B827-4DD5-4E7E-8231-D58BA9523A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

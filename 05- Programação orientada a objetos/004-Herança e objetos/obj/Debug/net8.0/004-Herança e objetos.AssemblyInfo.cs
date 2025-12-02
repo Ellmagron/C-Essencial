@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("004-Herança e objetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a00b0bb4631a39658830869c2d838843f3b2eb52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464edb6fa554e02cbe0d157664de83d86cc3f937")]
 [assembly: System.Reflection.AssemblyProductAttribute("004-Herança e objetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("004-Herança e objetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

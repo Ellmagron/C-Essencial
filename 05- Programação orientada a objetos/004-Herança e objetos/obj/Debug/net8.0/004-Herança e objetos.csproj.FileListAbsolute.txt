@@ -1,0 +1,5 @@
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\004-Herança e objetos\obj\Debug\net8.0\004-Herança e objetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\004-Herança e objetos\obj\Debug\net8.0\004-Herança e objetos.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\004-Herança e objetos\obj\Debug\net8.0\004-Herança e objetos.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\004-Herança e objetos\obj\Debug\net8.0\004-Herança e objetos.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\004-Herança e objetos\obj\Debug\net8.0\004-Herança e objetos.sourcelink.json

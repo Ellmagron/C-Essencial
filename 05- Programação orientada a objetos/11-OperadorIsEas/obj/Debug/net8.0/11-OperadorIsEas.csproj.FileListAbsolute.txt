@@ -1,0 +1,15 @@
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\bin\Debug\net8.0\11-OperadorIsEas.exe
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\bin\Debug\net8.0\11-OperadorIsEas.deps.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\bin\Debug\net8.0\11-OperadorIsEas.runtimeconfig.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\bin\Debug\net8.0\11-OperadorIsEas.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\bin\Debug\net8.0\11-OperadorIsEas.pdb
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.sourcelink.json
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\refint\11-OperadorIsEas.dll
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.pdb
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\11-OperadorIsEas.genruntimeconfig.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\11-OperadorIsEas\obj\Debug\net8.0\ref\11-OperadorIsEas.dll

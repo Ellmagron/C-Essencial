@@ -1,0 +1,5 @@
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\09-Tipos de Heranca\obj\Debug\net8.0\09-Tipos de Heranca.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\09-Tipos de Heranca\obj\Debug\net8.0\09-Tipos de Heranca.AssemblyInfoInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\09-Tipos de Heranca\obj\Debug\net8.0\09-Tipos de Heranca.AssemblyInfo.cs
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\09-Tipos de Heranca\obj\Debug\net8.0\09-Tipos de Heranca.csproj.CoreCompileInputs.cache
+E:\Documentos\estudos\Udemy\C-Essencial\05- Programação orientada a objetos\09-Tipos de Heranca\obj\Debug\net8.0\09-Tipos de Heranca.sourcelink.json
