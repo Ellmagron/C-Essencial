@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\bin\Debug\net8.0\17-ExemploHerancaComposicao.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\bin\Debug\net8.0\17-ExemploHerancaComposicao.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\bin\Debug\net8.0\17-ExemploHerancaComposicao.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\bin\Debug\net8.0\17-ExemploHerancaComposicao.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\bin\Debug\net8.0\17-ExemploHerancaComposicao.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\refint\17-ExemploHerancaComposicao.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\17-ExemploHerancaComposicao.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\17-ExemploHerancaComposicao\obj\Debug\net8.0\ref\17-ExemploHerancaComposicao.dll

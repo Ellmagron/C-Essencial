@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\bin\Debug\net8.0\12-ClassesAbstrataI.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\bin\Debug\net8.0\12-ClassesAbstrataI.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\bin\Debug\net8.0\12-ClassesAbstrataI.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\bin\Debug\net8.0\12-ClassesAbstrataI.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\bin\Debug\net8.0\12-ClassesAbstrataI.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\refint\12-ClassesAbstrataI.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\12-ClassesAbstrataI.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\12-ClassesAbstrataI\obj\Debug\net8.0\ref\12-ClassesAbstrataI.dll

@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\bin\Debug\net8.0\16-Agregacao.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\bin\Debug\net8.0\16-Agregacao.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\bin\Debug\net8.0\16-Agregacao.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\bin\Debug\net8.0\16-Agregacao.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\bin\Debug\net8.0\16-Agregacao.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\refint\16-Agregacao.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\16-Agregacao.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\16-Agregacao\obj\Debug\net8.0\ref\16-Agregacao.dll

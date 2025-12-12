@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\09-tipos de heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|solutionrelative:09-tipos de heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\09-tipos de heranca\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|solutionrelative:09-tipos de heranca\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\09-tipos de heranca\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|solutionrelative:09-tipos de heranca\\forma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\09-tipos de heranca\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|solutionrelative:09-tipos de heranca\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\09-tipos de heranca\\icusto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86AA18F3-2058-43F1-A673-52C13090C5E8}|09-Tipos de Heranca\\09-Tipos de Heranca.csproj|solutionrelative:09-tipos de heranca\\icusto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,71 +41,55 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICusto.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\ICusto.cs",
-              "RelativeDocumentMoniker": "09-Tipos de Heranca\\ICusto.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\ICusto.cs",
-              "RelativeToolTip": "09-Tipos de Heranca\\ICusto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "18-Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Program.cs",
+              "RelativeToolTip": "18-Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:56:12.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Quadrado.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\Quadrado.cs",
-              "RelativeDocumentMoniker": "09-Tipos de Heranca\\Quadrado.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\Quadrado.cs",
-              "RelativeToolTip": "09-Tipos de Heranca\\Quadrado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:51:53.101Z",
+              "WhenOpened": "2025-12-12T11:30:21.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Forma.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\Forma.cs",
-              "RelativeDocumentMoniker": "09-Tipos de Heranca\\Forma.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\Forma.cs",
-              "RelativeToolTip": "09-Tipos de Heranca\\Forma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Triangulo.cs",
+              "RelativeDocumentMoniker": "18-Polimorfismo\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Triangulo.cs",
+              "RelativeToolTip": "18-Polimorfismo\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:51:35.83Z",
+              "WhenOpened": "2025-12-12T11:29:54.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "09-Tipos de Heranca\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\ClassDiagram1.cd",
-              "RelativeToolTip": "09-Tipos de Heranca\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000968|",
-              "WhenOpened": "2025-11-28T11:22:27.37Z",
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Circulo.cs",
+              "RelativeDocumentMoniker": "18-Polimorfismo\\Circulo.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Circulo.cs",
+              "RelativeToolTip": "18-Polimorfismo\\Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T11:26:54.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\Program.cs",
-              "RelativeDocumentMoniker": "09-Tipos de Heranca\\Program.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\09-Tipos de Heranca\\Program.cs",
-              "RelativeToolTip": "09-Tipos de Heranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Figura.cs",
+              "RelativeDocumentMoniker": "18-Polimorfismo\\Figura.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Figura.cs",
+              "RelativeToolTip": "18-Polimorfismo\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T11:15:20.433Z",
+              "WhenOpened": "2025-12-12T11:25:28.852Z",
               "EditorCaption": ""
             }
           ]

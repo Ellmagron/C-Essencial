@@ -52,3 +52,35 @@ public class ClasseDerivada2 : MinhaStruct // <- Isso não é permitido em C#
 }
 
 // Heranças multipals é possível através apenas de interfaces
+
+
+/*
+ * O wque é um struct?
+  - Structs são tipos de valor que permitem agrupar dados relacionados em uma única unidade.
+    - Eles são usados para representar objetos simples e imutáveis, como pontos em um espaço 2D, cores, ou coordenadas geográficas.
+    - Structs são alocados na stack, o que pode resultar em melhor desempenho para pequenos objetos.
+    - Diferença entre struct e classe
+    - Structs são tipos de valor, enquanto classes são tipos de referência.
+    - Structs são alocados na stack, enquanto classes são alocados no heap.
+    - Structs não suportam herança, enquanto classes suportam herança.
+    - Structs são geralmente usados para representar objetos pequenos e imutáveis, enquanto classes são usadas para objetos maiores e mutáveis.
+    - Onde devo utilizar structs?
+    - Quando se deseja representar objetos simples e imutáveis.
+Como se representa uma struct? 
+   - Utilizando a palavra-chave struct seguida do nome da struct e suas propriedades e métodos.
+Exemplo de struct:
+using System;
+struct Ponto2D
+{
+    public int X { get; set; }
+    public int Y { get; set; }
+    public Ponto2D(int x, int y)
+    {
+        X = x;
+        Y = y;
+    }
+    public double DistanciaAoOrigem()
+    {
+        return Math.Sqrt(X * X + Y * Y);
+    }
+ */

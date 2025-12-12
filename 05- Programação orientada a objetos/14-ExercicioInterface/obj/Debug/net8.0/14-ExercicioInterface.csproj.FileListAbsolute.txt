@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\bin\Debug\net8.0\14-ExercicioInterface.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\bin\Debug\net8.0\14-ExercicioInterface.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\bin\Debug\net8.0\14-ExercicioInterface.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\bin\Debug\net8.0\14-ExercicioInterface.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\bin\Debug\net8.0\14-ExercicioInterface.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\refint\14-ExercicioInterface.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\14-ExercicioInterface.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\14-ExercicioInterface\obj\Debug\net8.0\ref\14-ExercicioInterface.dll
