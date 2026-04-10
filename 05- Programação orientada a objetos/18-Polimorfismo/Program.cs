@@ -1,7 +1,7 @@
 ﻿using _18_Polimorfismo;
 
 /*Isso é chamado de polimorfismo dinâmico*/
-var figuras = new List<Figura>
+var figuras  = new List<Figura>
 {
     new Circulo(),
     new Triangulo()
@@ -13,7 +13,7 @@ foreach (var figura in figuras)
 }
 
 
-Calcular calc = new Calcular();
+Calcular calc = new Calcular();      
 
 Console.WriteLine(calc.Somar(30, 40));
 Console.WriteLine(calc.Somar(40, 40));

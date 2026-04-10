@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\bin\Debug\net8.0\23-ExercicioPessoa2.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\bin\Debug\net8.0\23-ExercicioPessoa2.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\bin\Debug\net8.0\23-ExercicioPessoa2.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\bin\Debug\net8.0\23-ExercicioPessoa2.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\bin\Debug\net8.0\23-ExercicioPessoa2.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\refint\23-ExercicioPessoa2.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\23-ExercicioPessoa2.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\23-ExercicioPessoa2\obj\Debug\net8.0\ref\23-ExercicioPessoa2.dll

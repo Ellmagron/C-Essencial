@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\bin\Debug\net8.0\21-ExercicioFoto.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\bin\Debug\net8.0\21-ExercicioFoto.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\bin\Debug\net8.0\21-ExercicioFoto.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\bin\Debug\net8.0\21-ExercicioFoto.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\bin\Debug\net8.0\21-ExercicioFoto.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\refint\21-ExercicioFoto.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\21-ExercicioFoto.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\21-ExercicioFoto\obj\Debug\net8.0\ref\21-ExercicioFoto.dll

@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\bin\Debug\net8.0\19-Exercicio.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\bin\Debug\net8.0\19-Exercicio.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\bin\Debug\net8.0\19-Exercicio.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\bin\Debug\net8.0\19-Exercicio.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\bin\Debug\net8.0\19-Exercicio.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\refint\19-Exercicio.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\19-Exercicio.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\Exercicio-147\obj\Debug\net8.0\ref\19-Exercicio.dll

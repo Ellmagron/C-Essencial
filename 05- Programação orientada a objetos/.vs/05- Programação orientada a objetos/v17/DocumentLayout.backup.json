@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEDB5199-ACAD-4201-99FC-D3DCC4A3954A}|23-ExercicioPessoa2\\23-ExercicioPessoa2.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\23-exerciciopessoa2\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDB5199-ACAD-4201-99FC-D3DCC4A3954A}|23-ExercicioPessoa2\\23-ExercicioPessoa2.csproj|solutionrelative:23-exerciciopessoa2\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEDB5199-ACAD-4201-99FC-D3DCC4A3954A}|23-ExercicioPessoa2\\23-ExercicioPessoa2.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\23-exerciciopessoa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDB5199-ACAD-4201-99FC-D3DCC4A3954A}|23-ExercicioPessoa2\\23-ExercicioPessoa2.csproj|solutionrelative:23-exerciciopessoa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EE27CFE-0087-4717-A382-EFD3CD9B07AB}|22-ExercicioPessoa\\22-ExercicioPessoa.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\22-exerciciopessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE27CFE-0087-4717-A382-EFD3CD9B07AB}|22-ExercicioPessoa\\22-ExercicioPessoa.csproj|solutionrelative:22-exerciciopessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\18-polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{474BEA2F-5EF5-4BCF-8131-76F16541206A}|18-Polimorfismo\\18-Polimorfismo.csproj|solutionrelative:18-polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F38C619-0ABF-479D-BE89-8F5D6C486AB6}|21-ExercicioFoto\\21-ExercicioFoto.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\21-exerciciofoto\\livrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F38C619-0ABF-479D-BE89-8F5D6C486AB6}|21-ExercicioFoto\\21-ExercicioFoto.csproj|solutionrelative:21-exerciciofoto\\livrofotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE27CFE-0087-4717-A382-EFD3CD9B07AB}|22-ExercicioPessoa\\22-ExercicioPessoa.csproj|c:\\users\\sn1091342\\documents\\estudo\\udemy\\c-essencial\\05- programa\u00E7\u00E3o orientada a objetos\\22-exerciciopessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE27CFE-0087-4717-A382-EFD3CD9B07AB}|22-ExercicioPessoa\\22-ExercicioPessoa.csproj|solutionrelative:22-exerciciopessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +46,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Program.cs",
-              "RelativeDocumentMoniker": "18-Polimorfismo\\Program.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Program.cs",
-              "RelativeToolTip": "18-Polimorfismo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "LivroFotos.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\21-ExercicioFoto\\LivroFotos.cs",
+              "RelativeDocumentMoniker": "21-ExercicioFoto\\LivroFotos.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\21-ExercicioFoto\\LivroFotos.cs",
+              "RelativeToolTip": "21-ExercicioFoto\\LivroFotos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T11:30:21.39Z",
+              "WhenOpened": "2026-04-10T16:45:10.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Triangulo.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Triangulo.cs",
-              "RelativeDocumentMoniker": "18-Polimorfismo\\Triangulo.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Triangulo.cs",
-              "RelativeToolTip": "18-Polimorfismo\\Triangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\22-ExercicioPessoa\\Program.cs",
+              "RelativeDocumentMoniker": "22-ExercicioPessoa\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\22-ExercicioPessoa\\Program.cs",
+              "RelativeToolTip": "22-ExercicioPessoa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T11:29:54.081Z",
+              "WhenOpened": "2026-04-10T16:34:13.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\22-ExercicioPessoa\\Pessoa.cs",
+              "RelativeDocumentMoniker": "22-ExercicioPessoa\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\22-ExercicioPessoa\\Pessoa.cs",
+              "RelativeToolTip": "22-ExercicioPessoa\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:32:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\23-ExercicioPessoa2\\Pessoa.cs",
+              "RelativeDocumentMoniker": "23-ExercicioPessoa2\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\23-ExercicioPessoa2\\Pessoa.cs",
+              "RelativeToolTip": "23-ExercicioPessoa2\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:30:07.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Circulo.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Circulo.cs",
-              "RelativeDocumentMoniker": "18-Polimorfismo\\Circulo.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Circulo.cs",
-              "RelativeToolTip": "18-Polimorfismo\\Circulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\23-ExercicioPessoa2\\Program.cs",
+              "RelativeDocumentMoniker": "23-ExercicioPessoa2\\Program.cs",
+              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\23-ExercicioPessoa2\\Program.cs",
+              "RelativeToolTip": "23-ExercicioPessoa2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T11:26:54.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Figura.cs",
-              "DocumentMoniker": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Figura.cs",
-              "RelativeDocumentMoniker": "18-Polimorfismo\\Figura.cs",
-              "ToolTip": "C:\\Users\\sn1091342\\Documents\\Estudo\\Udemy\\C-Essencial\\05- Programa\u00E7\u00E3o orientada a objetos\\18-Polimorfismo\\Figura.cs",
-              "RelativeToolTip": "18-Polimorfismo\\Figura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T11:25:28.852Z",
+              "WhenOpened": "2026-04-10T16:29:37.729Z",
               "EditorCaption": ""
             }
           ]

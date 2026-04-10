@@ -1,0 +1,15 @@
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\bin\Debug\net8.0\20-ExercicioVeiculo.exe
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\bin\Debug\net8.0\20-ExercicioVeiculo.deps.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\bin\Debug\net8.0\20-ExercicioVeiculo.runtimeconfig.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\bin\Debug\net8.0\20-ExercicioVeiculo.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\bin\Debug\net8.0\20-ExercicioVeiculo.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.AssemblyInfoInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.AssemblyInfo.cs
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.sourcelink.json
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\refint\20-ExercicioVeiculo.dll
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.pdb
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\20-ExercicioVeiculo.genruntimeconfig.cache
+C:\Users\sn1091342\Documents\Estudo\Udemy\C-Essencial\05- Programação orientada a objetos\20-ExercicioVeiculo\obj\Debug\net8.0\ref\20-ExercicioVeiculo.dll
